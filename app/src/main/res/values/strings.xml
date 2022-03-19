@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CardApplication</string>
+
+    <string name="cards">Cards</string>
+    <string name="add_new_card">Add New Card</string>
+    <string name="your_c">Your card number</string>
+    <string name="visa">Visa</string>
+    <string name="number">4875 4542 0033 1477</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="expires">EXPIRES</string>
+    <string name="math">Matthias Manhoffen</string>
+    <string name="_08_21">08/21</string>
+    <string name="expiration_date">Expiration date</string>
+    <string name="cvv">CVV</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="add_new">Add New Card</string>
+    <string name="card">Card</string>
+
+    <color name="black_1">#0D0D0D</color>
+    <color name="color1">#242B2E</color>
+    <color name="color2">#D82E2F</color>
+    <color name="color3">#5DA3FA</color>
+    <color name="color5">#FFBB86FC</color>
+    <color name="color8">#7B379E</color>
+    <color name="color6">#CAD5E2</color>
+    <color name="color9">#F4CE6A</color>
+    <color name="color7">#797D83</color>
+    <color name="whi">#e2e2e2</color>
+</resources>
